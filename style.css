@@ -1,0 +1,17 @@
+.container{
+    margin-top : 60px;
+    margin-bottom : 60px;
+}
+
+body{
+    background-image: url(img/bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color : white;
+}
+
+img{
+    height : 300px;
+    width : 400px;
+}
