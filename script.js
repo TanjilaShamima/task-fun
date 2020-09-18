@@ -5,7 +5,7 @@
 
         function doSomething() {
 
-            fetch('http://www.boredapi.com/api/activity/')
+            fetch('https://www.boredapi.com/api/activity/')
             .then(response => response.json())
             .then(data => {
                 
